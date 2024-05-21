@@ -1,5 +1,5 @@
 Scraping de serveurs FiveM fait par 1134
-Ce script Python permet de collecter des informations sur les serveurs FiveM, notamment les joueurs en ligne, les ressources utilisées et d'autres détails pertinents.
+Ce script Python permet de collecter des informations sur les serveurs FiveM, notamment les joueurs en ligne, les ressources utilisées et d'autres détails pertinents enregistré dans les fichiers scrape_joueurs et serveur_info
 
 Utilisation
 Prérequis : Assurez-vous d'avoir Python installé sur votre système.
@@ -16,3 +16,5 @@ Ce script s'inspire d'une petite partie d'un script existant. J'ai ajouté et pe
 
 Mentions légales
 Ce script est développé à des fins éducatives et de recherche. L'utilisation de ce script est sous la responsabilité de l'utilisateur. L'auteur de ce script décline toute responsabilité en cas de bans de compte, de serveur ou de poursuites judiciaires ou toute autre soucis legal et morale résultant de son utilisation.
+
+sur ce bonne utilisation bebew et apprend a faire tes propres truc vole pas tout le code, rajoute des trucs mieux 
